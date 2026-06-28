@@ -1,0 +1,7 @@
+name: agnes
+version: 1.0.0
+description: "Agnes AI image generation backend (Agnes Image 2.1 Flash). Free text-to-image & image-to-image via agnes-ai.com."
+author: Hermes Agent
+kind: backend
+requires_env:
+  - AGNES_API_KEY
