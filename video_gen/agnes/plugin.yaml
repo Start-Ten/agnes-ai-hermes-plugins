@@ -1,0 +1,7 @@
+name: agnes
+version: 1.0.0
+description: "Agnes AI video generation backend (Agnes Video V2.0). Free text-to-video & image-to-video via agnes-ai.com."
+author: Hermes Agent
+kind: backend
+requires_env:
+  - AGNES_API_KEY
